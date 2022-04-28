@@ -9,7 +9,7 @@
     "project management"
   ],
   "dependencies": {
-    "async": "^1.4.0",
+    "async": "^2.6.4",
     "errs": "~0.3.2",
     "fetch": "^1.1.0",
     "node-fetch": "^2.6.0",
